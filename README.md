@@ -4,8 +4,8 @@ This is a simple website project for Git Tutorial.
 ## Introduction
 This is another example.
 
-Olá :)
 ##Purpose
+Olá Purpose
 
 ##Deployment
 Olá deployment
