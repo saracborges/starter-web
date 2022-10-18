@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sara Borges	sara.borges@glintt.com	@saraborges
 
 # THANKS
 
