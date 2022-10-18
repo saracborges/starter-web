@@ -1,5 +1,5 @@
 #Start Web Project
-This is a simple website project for Git Tutorial.
+This is a simple website project for Git Tutorial. Adding a line just for fun. 
 
 ## Introduction
 
